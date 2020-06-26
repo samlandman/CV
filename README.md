@@ -1,4 +1,4 @@
-## Your Name
+## Sam Landman
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May - August 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -42,13 +42,16 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+Chaddesley Sanford (2017 - 2020)    
+Chartered Accountant
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Dojo (2015-2016)   
+Head of Partnerships  
 - Any experience relevent to software development
+
+Jukedeck (2014)
+Operations
 
 ## Hobbies
 
